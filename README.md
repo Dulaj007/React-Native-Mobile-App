@@ -2,7 +2,7 @@
 ## Course Module - EEI3269 Introduction to Mobile Application Development
 ### This tutorial is made for my colleagues who having troubles with developing applications with React Native
 
-CODE FILES - 
+> CODE FILES - https://github.com/Dulaj007/React-Native-Mobile-App/blob/89a60322a64e9d8496dbe7d402baa508bf9ece46/CODE/reactNativeCode.md
 
 ## BASICS
 React Native is a popular framework that allows developers to build mobile apps for both iOS and Android using JavaScript and React, instead of learning separate programming languages.
