@@ -1,2 +1,3 @@
 # React-Native-Mobile-App
- This tutorial is made for my colleagues who having troubles with developing applications with React Native
+## Course Module - EEI3269 Introduction to Mobile Application Development
+### This tutorial is made for my colleagues who having troubles with developing applications with React Native
