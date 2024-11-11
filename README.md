@@ -4,7 +4,7 @@
 
 React Native is a popular framework that allows developers to build mobile apps for both iOS and Android using JavaScript and React, instead of learning separate programming languages.
 
-## Basics
+# BASICS
 ### There are a few main ways to create a React Native app.
 ## 01 Expo CLI (Used in course module )
 Refer this documentation to get start with Expo CLI  <br>
@@ -20,4 +20,6 @@ Sign up at https://snack.expo.dev/ <br>
 Refer this documentation to get start with Using Snack  <br>
 https://docs.expo.dev/more/expo-cli/
 In this method we also using React Native CLI to build our application then we test it using this web.
+
+
 
